@@ -1,7 +1,7 @@
 # Term-Project
 
 ## Team members:
-- A
-- B
-- C
-- D
+- Amr Eid
+- Mohamed Azouz
+- Kareem Elnaghy
+- Ismail ElDahshan
